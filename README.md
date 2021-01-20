@@ -8,10 +8,10 @@ These instructions will get you a copy of the project up and running on your loc
 You'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com))  [Express.js] (https://www.npmjs.com/package/express) installed on your computer 
 
 ```
-node@v10.16.0 or higher
-npm@6.9.0 or higher
+node @v10.16.0 or higher
+npm @6.9.0 or higher
 express @4.17.1 or higher
-git@2.17.1 or higher
+git @2.17.1 or higher
 ```
 
 
@@ -21,7 +21,7 @@ Login to your mysql root by using the commands:
 
 
 ```
-#Moving to database table folder
+# Moving to database table folder
 $ cd database
 
 # Login to root
@@ -67,6 +67,7 @@ $ npm install
 
 #Start's Express API server
 $ node server.js
+(You will notice now the server running at Port:3000)
 ```
 
 ## Routes Available
