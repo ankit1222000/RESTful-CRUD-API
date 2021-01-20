@@ -53,7 +53,7 @@ $ source customer.sql
 
 ## How To Use 
 
-From your command line, clone and run developerFolio:
+From your command line, clone and run RESTful CRUD API Server:
 
 ```bash
 # Clone this repository
